@@ -16,4 +16,4 @@ Hoteru wa dokodesu ka | Wo ist das Hotel
 Ikura | Wie viel
 Sore wa ikuradesu ka | Wie viel kostet das?
 Okanjōwōnegaishimasu | Die Rechnung bitte 
-
+Gochisousama deshita | Vielen Dank für das Essen!
