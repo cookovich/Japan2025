@@ -15,5 +15,5 @@ Dokudesu ka | Wo ist es
 Hoteru wa dokodesu ka | Wo ist das Hotel
 Ikura | Wie viel
 Sore wa ikuradesu ka | Wie viel kostet das?
-Die Rechnung bitte | Okanjōwōnegaishimasu 
+Okanjōwōnegaishimasu | Die Rechnung bitte 
 
