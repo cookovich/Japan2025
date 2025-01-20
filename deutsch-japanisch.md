@@ -17,3 +17,6 @@ Ikura | Wie viel
 Sore wa ikuradesu ka | Wie viel kostet das?
 Okanjōwōnegaishimasu | Die Rechnung bitte 
 Gochisousama deshita | Vielen Dank für das Essen!
+
+watashi wa bejitarian desu | Ich bin Vegetarier
+Watashi wa sakana mo niku mo tabemasen | ich esse kein Fisch und kein Fleisch
