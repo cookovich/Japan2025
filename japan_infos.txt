@@ -1,7 +1,7 @@
 -- TODOs
-- Reisetasche und ggf. kleiner Rucksach
+- Reisetasche und ggf. kleiner Rucksack  [x]
 - Online Japan anmelden
-- Adapter
+- Adapter   [x]
 - SIM Karte
 - Führerschein
 - Medikamente  
@@ -38,7 +38,6 @@ https://wanderweib.de/tipps-vegan-durch-japan-reisen/
 https://www.japanwelt.de/blog/vegan-essen-japan-gerichte
 
 
-Hakone
 
 
 
