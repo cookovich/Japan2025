@@ -1,6 +1,6 @@
 -- TODOs
 - Reisetasche und ggf. kleiner Rucksack  [x]
-- Online Japan anmelden
+- Online Japan anmelden   [x]
 - Adapter   [x]
 - SIM Karte
 - Führerschein
