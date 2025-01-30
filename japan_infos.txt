@@ -4,6 +4,11 @@
 - Adapter
 - SIM Karte
 - Führerschein
+- Medikamente  
+  - Melatoninspray
+  - Allergietabletten
+  - Magen-Darm
+  - Erkältung
 
 
 24.03.-11.04.
