@@ -20,3 +20,4 @@ Gochisousama deshita | Vielen Dank für das Essen!
 &nbsp;  |  &nbsp;
 watashi wa bejitarian desu | Ich bin Vegetarier
 Watashi wa sakana mo niku mo tabemasen | ich esse kein Fisch und kein Fleisch
+Watashi wa bejitariandesu. Kore wa niku nashidesu ka? | Ich bin Vegetarier. Ist das ohne fleisch?
