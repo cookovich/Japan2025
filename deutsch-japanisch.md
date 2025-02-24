@@ -18,7 +18,7 @@ Dokudesu ka | Wo ist es
 Toire wa dokudesu ka? | Wo ist die Toiletten?
 Hoteru wa dokodesu ka | Wo ist das Hotel
 Ikura | Wie viel
-Sore wa ikuradesu ka | Wie viel kostet das?
+Kore wa ikuradesu ka | Wie viel kostet das?
 Okanjōwōnegaishimasu | Die Rechnung bitte 
 Gochisousama deshita | Vielen Dank für das Essen!
 &nbsp;  |  &nbsp;
