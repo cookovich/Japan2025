@@ -5,10 +5,10 @@ konichiwa | Guten Tag
 Konbanwa | Guten Abend
 oyasuminasai | Gute Nacht
 Hajimemashite | Schön Sie kennenzulernen
-Sayonara | Auf Wiedersehen
+Sayonara | Auf Wiedersehen (wird selten benutzt)
 mata ne | bis bald
 jaa ne | also dann
-shitsurei shimasu | (höfliche floskel)
+shitsurei shimasu | verabschieden (höfliche floskel)
 &nbsp;  |  &nbsp;
 Gomen'nasai | Es tut mir leid
 Sumimasen | Entschuldigung
